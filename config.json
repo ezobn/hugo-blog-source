@@ -5,8 +5,8 @@
 
     "builddrafts": false,
 
-    "baseurl": "http://localhost/",
-    "canonifyurls": false,
+    "baseurl": "http://ezobn.github.io/blog/",
+    "canonifyurls": true,
     "permalinks": {
         "post": ":year/:month/:day/:title/",
         "fixed": ":title/"
