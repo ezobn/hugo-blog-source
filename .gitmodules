@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/ezobn/blog.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/tummychow/lanyon-hugo.git
